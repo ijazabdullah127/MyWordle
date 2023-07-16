@@ -1,0 +1,54 @@
+
+body{
+    background-color: #0E8388;
+    text-align: center;
+    margin: 0;
+
+
+    
+}
+h5{
+    text-align: left;
+    margin-left: 1px;
+    margin-top: auto;
+    font-family: 'Lilita One', cursive;
+    font-weight: lighter;
+}
+#title{
+    color:#EF8;
+    font-family: 'Tektur';
+    margin-top: 40px;
+    font-size: 5rem;
+}
+#inner_text{
+    font-size: 2rem;
+    padding-top: 10px;
+    font-family: 'Lilita One', cursive;
+}
+.outer{
+    width:500px;
+    height:500px;
+    background-color: #84D2C5;
+    margin:100px auto 100px auto;
+    position: relative;
+}
+.word{
+    color: rgb(16, 253, 8);
+    margin:5px 10px;
+font-weight: bolder;
+    height:44px;
+    padding: 10px;
+   
+}
+.foot{
+    margin-top: 86px;
+}
+.foot-text{
+    line-height: 2;
+    margin-top:82px;
+    margin-left: 16px;
+}
+.reset:hover{
+    background-color:black;
+}
+

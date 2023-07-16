@@ -1,0 +1,100 @@
+Cat - A small domestic animal.
+Dog - A loyal pet with four legs.
+Moon - Earth's natural satellite.
+Sun - The star at the center of our solar system.
+Book - A written or printed work consisting of pages.
+Rain - Water falling from the clouds.
+Fish - Aquatic animal with gills and fins.
+Tree - A tall plant with a trunk and branches.
+Smile - Facial expression indicating happiness.
+Bird - Feathered creature that can fly.
+Apple - A round fruit with a red or green skin.
+Frog - Amphibian with a smooth, moist skin.
+Hat - Headwear worn for protection or style.
+Fire - A hot, glowing combustion process.
+Beach - Sandy shore along a body of water.
+Lake - A large body of water surrounded by land.
+Rose - Fragrant flower with thorny stems.
+Moon - Natural satellite that orbits a planet.
+Star - Luminous celestial body visible in the night sky.
+Sky - The expanse above the Earth's surface.
+Lamp - A device that produces light.
+Rain - Precipitation in the form of water droplets.
+Cloud - Visible mass of condensed water vapor.
+Mouse - Small rodent often found in homes.
+Cake - Sweet baked dessert.
+Frog - Amphibian that starts as a tadpole.
+Grass - Green plants that cover the ground.
+Bird - Winged creature that lays eggs.
+Boat - Watercraft used for transportation.
+Key - Metal object used to unlock things.
+Leaf - Flattened structure of a plant.
+Clock - Timekeeping device.
+Bread - Staple food made from dough.
+Duck - Waterbird with webbed feet.
+Pen - Writing instrument.
+Fish - Cold-blooded aquatic vertebrate.
+Car - Vehicle used for transportation.
+Rose - Flower often associated with love.
+Moon - Earth's natural satellite.
+Bird - Feathered vertebrate.
+Hat - Headwear accessory.
+Rain - Precipitation from the clouds.
+Tree - Woody perennial plant.
+Fire - Combustion process.
+Lake - Large body of water.
+Fish - Aquatic animal.
+Cake - Baked sweet dessert.
+Mouse - Small rodent.
+Lamp - Source of light.
+Key - Unlocking device.
+Leaf - Photosynthetic structure.
+Boat - Water transportation.
+Rose - Fragrant flower.
+Moon - Celestial satellite.
+Bird - Avian creature.
+Hat - Head covering.
+Rain - Falling water droplets.
+Tree - Woody plant.
+Fire - Burning flames.
+Lake - Body of water.
+Fish - Swim in water.
+Cake - Birthday treat.
+Mouse - Computer accessory.
+Lamp - Illumination device.
+Key - Lock opener.
+Leaf - Part of a plant.
+Boat - Vessel for sailing.
+Rose - Symbol of love.
+Moon - Nighttime orb.
+Bird - Chirping creature.
+Hat - Fashion accessory.
+Rain - Wet weather phenomenon.
+Tree - Nature's tall creation.
+Fire - Source of warmth.
+Lake - Reflective water body.
+Fish - Aquatic organism.
+Cake - Celebration delicacy.
+Mouse - Computer pointing device.
+Lamp - Indoor lighting tool.
+Key - Access tool.
+Leaf - Fall foliage.
+Boat - Nautical vessel.
+Rose - Flowering plant.
+Moon - Earth's natural satellite.
+Bird - Feathered friend.
+Hat - Headwear fashion.
+Rain - Wet precipitation.
+Tree - Woody vegetation.
+Fire - Burning phenomenon.
+Lake - Body of water.
+Fish - Aquatic creature.
+Cake - Delicious dessert.
+Mouse - Computer device.
+Lamp - Light source.
+Key - Access instrument.
+Leaf - Plant structure.
+Boat - Water vehicle.
+Rose - Symbol of love.
+Moon - Celestial object.
+Bird - Avian species.
